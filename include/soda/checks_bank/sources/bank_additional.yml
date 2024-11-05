@@ -1,0 +1,26 @@
+checks for bank_additional:
+  - schema:
+      fail:
+        when required column missing: [age, job, marital, education, default_credit, housing, loan, contact_target, month, day_of_week, duration, campaign, pdays, previous, poutcome, emp_var_rate, cons_price_idx, cons_conf_idx, euribor3m, nr_employed, target_decision]
+        when wrong column type:    
+          age: INT64
+          job: STRING
+          marital: STRING
+          education: STRING
+          default_credit: STRING
+          housing: STRING
+          loan: STRING
+          contact_target: STRING
+          month: STRING
+          day_of_week: STRING
+          duration: INT64
+          campaign: INT64
+          pdays: INT64
+          previous: INT64
+          poutcome: STRING
+          emp_var_rate: FLOAT64
+          cons_price_idx: FLOAT64
+          cons_conf_idx: FLOAT64
+          euribor3m: FLOAT64
+          nr_employed: FLOAT64
+          target_decision: STRING
