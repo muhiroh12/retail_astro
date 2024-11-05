@@ -1,3 +1,9 @@
+An end-to-end Data pipeline with Astronomer
+
+PIPELINE
+========
+![Doc/pipeline.png]
+
 Overview
 ========
 
