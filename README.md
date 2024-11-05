@@ -2,7 +2,18 @@ An end-to-end Data pipeline with Astronomer
 
 PIPELINE
 ========
-![Doc/pipeline.png]
+![Pipeline](Doc/retail-astro.jpg)
+
+Tools
+========
+1. [Astro CLI](#astro-cli)
+2. Docker
+3. Soda
+4. dbt(Data Build Tool)
+5. Metabase / Grafana
+6. GCP(Google Cloud Platform)
+
+### Astro CLI
 
 Overview
 ========
