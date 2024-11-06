@@ -1,9 +1,0 @@
-# dbt_project.yml
-
-name: 'bank_marketing'
-
-profile: 'bank_additional'
-
-models:
-  bank_additional:
-    materialized: table

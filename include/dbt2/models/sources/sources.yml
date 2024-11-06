@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: bank_marketing
-    database: northern-shield-437204-m0
-
-    tables:
-      - name: bank_additional
