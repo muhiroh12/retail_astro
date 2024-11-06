@@ -4,7 +4,7 @@ version: 2
 
 sources:
   - name: retail
-    database: northern-shield-437204-m0
+    database: your project id
 
     tables:
       - name: raw_invoices

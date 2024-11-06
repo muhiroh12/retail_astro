@@ -7,9 +7,9 @@ data_source retail:
     - https://www.googleapis.com/auth/bigquery
     - https://www.googleapis.com/auth/cloud-platform
     - https://www.googleapis.com/auth/drive
-    project_id: 'northern-shield-437204-m0'
+    project_id: 'your project id'
     dataset: retail
 soda_cloud:
   host: cloud.soda.io
-  api_key_id: 647c62ad-a356-490c-ac11-485bd8515d72
-  api_key_secret: EleeJhZDaIpP5NvH6r0x4mUMpR7oruvO9KUNGsrmAQdqk8VSsIFSgA
+  api_key_id: 
+  api_key_secret: 

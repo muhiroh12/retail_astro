@@ -9,3 +9,16 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
+dags/bank_additional_dag.py
+dags/bank_transform.py
+include/dataset/bank-additional-full.csv
+include/dataset/bank-additional-full-cleaned.csv
+include/dbt2/
+include/soda/check_function_bank.py
+include/soda/configuration_bank.yml
+include/soda/checks_bank/
+include/gcp/
+command.txt
+dags/exampledag.py
+./include/metabase-data/
+include/metabase-data
