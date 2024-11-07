@@ -67,5 +67,7 @@ Error: error building, (re)creating or starting project containers: Error respon
 you can check and stop it on your terminal(powershell):
         ```
         netstat -aon | findstr :5432
+        ```
+        ```
         taskkill /PID <PID> /F
         ```
