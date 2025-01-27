@@ -48,8 +48,8 @@ dbt is further used to build reporting models. These models aggregate and organi
 6. Quality Checks (Check Report)
 A final set of quality checks with Soda is conducted on the reporting models to verify that the reporting data is correct and meets business requirements
 
-7. Data Visualization with Grafana
-The pipeline concludes with data visualization in Grafana
+7. Data Visualization with Metabase
+The pipeline concludes with data visualization in Metabase
 ![Dasboard](Doc/Astro-Airflow_Metabase02.png)
 
 
